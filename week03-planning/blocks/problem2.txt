@@ -1,0 +1,8 @@
+# Blocks World problem 2: turn a tower of five blocks upside down
+# Each line is one stack of blocks, listed from bottom to top.
+
+initial:
+A B C D E
+
+goal:
+E D C B A

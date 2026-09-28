@@ -1,0 +1,9 @@
+# Blocks World problem 0 (the example from the slides)
+# Each line is one stack of blocks, listed from bottom to top.
+
+initial:
+A C
+B
+
+goal:
+C B A

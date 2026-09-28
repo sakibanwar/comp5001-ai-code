@@ -1,0 +1,9 @@
+# Blocks World problem 1: four blocks
+# Each line is one stack of blocks, listed from bottom to top.
+
+initial:
+A B
+C D
+
+goal:
+D C B A

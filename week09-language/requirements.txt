@@ -1,0 +1,4 @@
+nltk
+markovify
+scipy
+numpy
