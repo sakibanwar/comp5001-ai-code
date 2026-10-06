@@ -2,6 +2,8 @@
 
 Code for the weekly practicals of **COMP5001 Artificial Intelligence** at the University of Winchester, 2026–27. Each week has its own folder. Part 1 of the portfolio also starts from this code.
 
+**Module website** (slides, notes, seminar sheets and the assessment brief): <https://sakibanwar.github.io/COMP5001-Artificial-Intelligence-26-27/>
+
 ## Download
 
 - **Easiest:** click the green **Code** button above, choose **Download ZIP**, then unzip it.
