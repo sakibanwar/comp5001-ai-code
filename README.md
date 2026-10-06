@@ -45,10 +45,14 @@ Code for the weekly practicals of **COMP5001 Artificial Intelligence** at the Un
 
 Part 1 of the portfolio asks you to adapt one of these programs. Say in your write-up which program you started from and what you changed. Generative AI tools are **not permitted** in the portfolio: see the assessment brief for the full policy.
 
+Data for the portfolio is in the [`portfolio`](portfolio) folder: [`deliveries.csv`](portfolio/deliveries.csv) is the data for Part 1, problem 4 (Late deliveries), which starts from `week07-learning/banknotes/banknotes0.py`.
+
 ## Credits and licence
 
 The code in Weeks 2 and 4 to 9 is the lecture source code from **CS50's Introduction to Artificial Intelligence with Python** by Brian Yu and David J. Malan, Harvard University ([cs50.harvard.edu/ai](https://cs50.harvard.edu/ai)). It is used here unchanged, apart from the folder layout and the `requirements.txt` files.
 
 The Week 3 planning code (`blocks.py` and the problem and PDDL files) was written for COMP5001 and adapts CS50's `maze.py`.
+
+`portfolio/deliveries.csv` was made up for the COMP5001 assessment.
 
 All of this material is shared under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0), the same licence as CS50's materials. You may share and adapt it for non-commercial purposes, as long as you give credit and share your adaptations under the same licence. See [LICENSE.md](LICENSE.md).
