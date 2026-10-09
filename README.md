@@ -26,7 +26,7 @@ Code for the weekly practicals of **COMP5001 Artificial Intelligence** at the Un
 | Week | Topic | Folder | Inside | Packages |
 |---|---|---|---|---|
 | 1 | Introduction | none | Week 1 has no code | |
-| 2 | Search | [`week02-search`](week02-search) | `maze.py` and three mazes | pillow |
+| 2 | Search | [`week02-search`](week02-search) | `maze.py` and four mazes (`maze4.txt` is the Week 3 greedy trap) | pillow |
 | 3 | Planning | [`week03-planning`](week03-planning) | `blocks.py`, problem files, PDDL files | none |
 | 4 | Knowledge | [`week04-knowledge`](week04-knowledge) | `logic.py`, `harry.py`, `clue.py`, `mastermind.py`, `puzzle.py` | termcolor |
 | 5 | Uncertainty | [`week05-uncertainty`](week05-uncertainty) | Bayesian network, Markov chain, hidden Markov model | pomegranate (below 1.0) |
